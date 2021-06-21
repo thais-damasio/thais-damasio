@@ -1,6 +1,9 @@
+![](https://komarev.com/ghpvc/?username=thais-damasio&color=006bed)
+
 ### Olá Pessoal! 🐦
 
-Tenho uma paixão muito grande por estudar, ensinar e contribuir na mudança do mundo para um lugar cada vez melhor :D
+Tenho uma paixão muito grande por estudar, ensinar e contribuir na mudança do mundo para um lugar cada vez melhor :D </br>
+Você pode dar uma conferida no meu website [aqui](https://thais-damasio.github.io/)
 
 ## Um pouco sobre mim
 
@@ -28,9 +31,19 @@ pombo 🐦
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thais-damasio&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://thais-damasio.github.io/
-[instagram]: https://www.instagram.com/damasio.thais/
-[linkedin]: https://www.linkedin.com/in/thais-damasio/
+## Onde me encontrar
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thais.damasio98@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-damasio/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/damasio.thais/"/></a>
+  
+</p>  
+
 
 ---
 <small>Esse ReadME foi baseado em um dos modelos disponibilizados [aqui](https://github.com/iuricode/readme-template) :D</small>
