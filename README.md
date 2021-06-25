@@ -14,7 +14,7 @@ Sou bacharel em Sistemas de Informação pela Pontifícia Universidade
 Católica de Minas gerais (PUC Minas) e atualmente estou fazendo 
 mestrado em Ciência da Computação pela Universidade Federal de 
 Minas Gerais (UFMG).
-- 🔭 Atualmente tenho trabalho na área de compiladores e linguagens 
+- 🔭 Atualmente tenho trabalhado na área de compiladores e linguagens 
 de programação
 - 🌱 Tenho aprendido sobre o LLVM e passes de otimização
 - ⚡ Uma curiosidade é que meus amigos tem o costume de me chamar de
