@@ -10,14 +10,14 @@ You can check out my website by clicking on this [link](https://thais-damasio.gi
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```
-I am a bachelor of Information Systems from Pontifical Catholic (PUC Minas)
-University of Minas Gerais and currently, I am pursuing my Master's degree 
-in Computer Science at Federal University of Minas Gerais (UFMG) under
-the supervision of professor Fernando Magno Quintão Pereira.
+I am a bachelor of Information Systems from Pontifical Catholic University of 
+Minas Gerais (PUC Minas) and currently, I am pursuing my Master's degree in 
+Computer Science at Federal University of Minas Gerais (UFMG) under the 
+supervision of professor Fernando Magno Quintão Pereira.
 - 🔭 I have been working on compilers area and programming language
 - 🌱 I have been learning about LLVM compiler infrastructure focused on 
 optimizations. Deep Learning also has been part of my interest
-- ⚡ A curiosity: my frieds usually call me "Pombo" (it is pigeon in english) 🐦
+- ⚡ A curiosity: my friends usually call me "Pombo" (it is pigeon in english) 🐦
 ```
 
 ## **GitHub Statistics**
