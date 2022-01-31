@@ -1,27 +1,26 @@
 ![](https://komarev.com/ghpvc/?username=thais-damasio&color=006bed)
 
-### Olá Pessoal! 🐦
+### Hi Everyone! 🐦
 
-Tenho uma paixão muito grande por estudar, ensinar e contribuir na mudança do mundo para um lugar cada vez melhor :D </br>
-Você pode dar uma conferida no meu website [aqui](https://thais-damasio.github.io/)
+I love studying, teaching and somehow pitching in to make the world a better place :D </br>
+You can check out my website by clicking on this [link](https://thais-damasio.github.io/)
 
-## Um pouco sobre mim
+## A little bit about myself
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```
-Sou bacharel em Sistemas de Informação pela Pontifícia Universidade 
-Católica de Minas gerais (PUC Minas) e atualmente estou fazendo 
-mestrado em Ciência da Computação pela Universidade Federal de 
-Minas Gerais (UFMG).
-- 🔭 Atualmente tenho trabalhado na área de compiladores e linguagens 
-de programação
-- 🌱 Tenho aprendido sobre o LLVM e passes de otimização
-- ⚡ Uma curiosidade é que meus amigos tem o costume de me chamar de
-pombo 🐦
+I am a bachelor of Information Systems from Pontifical Catholic (PUC Minas)
+University of Minas Gerais and currently, I am pursuing my Master's degree 
+in Computer Science at Federal University of Minas Gerais (UFMG) under
+the supervision of professor Fernando Magno Quintão Pereira.
+- 🔭 I have been working on compilers area and programming language
+- 🌱 I have been learning about LLVM compiler infrastructure focused on 
+optimizations. Deep Learning also has been part of my interest
+- ⚡ A curiosity: my frieds usually call me "Pombo" (it is pigeon in english) 🐦
 ```
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thais-damasio&theme=dracula&hide_langs_below=1" />
@@ -31,7 +30,7 @@ pombo 🐦
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thais-damasio&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-## Onde me encontrar
+## Where you can find me
 <p align="left">
   <a href="mailto:thais.damasio98@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thais.damasio98@gmail.com" /></a>
@@ -46,7 +45,7 @@ pombo 🐦
 
 
 ---
-<small>Esse ReadME foi baseado em um dos modelos disponibilizados [aqui](https://github.com/iuricode/readme-template) :D</small>
+<small>This README was based on one of the models available at this [link](https://github.com/iuricode/readme-template) :D</small>
 
 
 <!--
